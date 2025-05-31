@@ -36,15 +36,3 @@ The visualizer helps users, students, and enthusiasts understand the internal me
 2. The user inputs the desired number of bars (array elements) and generates a random array.
 3. Upon clicking "Solve," the chosen sorting algorithm runs on a copy of the array, producing a list of swap or overwrite actions.
 4. These actions are animated on screen by visually swapping bars or changing their heights, reflecting the sorting process step-by-step.
-
----
-Future Enhancements
-Add more sorting algorithms (Heap Sort, Radix Sort, etc.).
-
-Add user controls to pause, resume, and step through animations manually.
-
-Provide speed control for animations.
-
-Show real-time algorithm complexity or code snippets.
-
-Add sound effects synced with animations for enhanced engagement.
